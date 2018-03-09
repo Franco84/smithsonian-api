@@ -1,0 +1,2 @@
+Show.create(title: 'Aerial America', description: 'Take off on a thrilling flight across America.', duration: 45, original_air_date: 20180101, rating: 5, keywords: 'landmarks travel America aerial')
+Show.create(title: 'Humongous Moves', description: 'Join us as we follow these engineers on epic journeys over land, sea, and air as they transport monstrous structures to new locations, often against strict deadlines.', duration: 45, original_air_date: 20180101, rating: 5, keywords: 'America Europe engineering travel')

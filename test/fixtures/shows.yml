@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  description: MyText
+  duration: 1.5
+  original_air_date: 2018-03-09
+  rating: 1
+  keywords: MyText
+
+two:
+  title: MyString
+  description: MyText
+  duration: 1.5
+  original_air_date: 2018-03-09
+  rating: 1
+  keywords: MyText
